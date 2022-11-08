@@ -1,6 +1,6 @@
 ### Hi there, I'm Kim Vincent  👋
 
-## I'm a Computer Engineering Fresh Grad and Developer!
+## I'm a Full Stack Developer 💻
 
 - 🔭 I’m currently working on an [Expense Tracking App][website]!
 - 🌱 I’m currently learning everything 🤣
