@@ -2,11 +2,11 @@
 
 ## I'm a Full Stack Developer 💻
 
-- 🔭 I’m currently working on an [Expense Tracking App][website]!
+- 🔭 I’m currently working on [myself][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and watch amazing films
+- 🥅 2024 Goals: Contribute more projects
+- ⚡ Fun fact: I'm a programmer, I have no life
 
 
 ### Connect with me:
